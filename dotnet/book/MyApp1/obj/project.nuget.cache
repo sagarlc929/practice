@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmiUAzZTphy8LSAY6sUVXRA3eYXEpXmBDmRfxu4sP7JkROK7WDRE3N/SLUDcJi2cyYkqmsj3JwbcP0zhujW+sA==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/book/MyApp1/MyApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

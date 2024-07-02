@@ -1,0 +1,17 @@
+organization
++ Code
++ Name
++ Address
++ Email
++ ContactNo
++ EstdDate
++ Chief
+
+EdnOrgn
++ Type
++ Program
+
+College
++ AffiliatedBy
++ Faculty[]
++ NoOfStudent

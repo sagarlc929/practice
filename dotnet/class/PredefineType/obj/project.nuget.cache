@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vblWArfglaKT5vkGBlulFd8xcIHy0qX0HAVIe2bJB36pdwXeA6WYbyjYaiNpD4T/iZy/BVS0TLpwg4Vnt9ietQ==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/PredefineType/PredefineType.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

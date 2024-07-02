@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+b4E+CahaJBMrOcVnr6l99dpsoCX5T5qI8RbOm6bOWlXrJVSi7zNe5ToroZBIb3heEo7zjE+sk/FczEMldzNQ==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/FeetToInches/FeetToInches.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

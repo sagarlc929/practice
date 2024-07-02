@@ -1,0 +1,14 @@
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.AssemblyInfo.cs
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/class/MyApp3/bin/Debug/net8.0/MyApp3
+/home/summer/practice/dotnet/class/MyApp3/bin/Debug/net8.0/MyApp3.deps.json
+/home/summer/practice/dotnet/class/MyApp3/bin/Debug/net8.0/MyApp3.runtimeconfig.json
+/home/summer/practice/dotnet/class/MyApp3/bin/Debug/net8.0/MyApp3.dll
+/home/summer/practice/dotnet/class/MyApp3/bin/Debug/net8.0/MyApp3.pdb
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.dll
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/refint/MyApp3.dll
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.pdb
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/MyApp3.genruntimeconfig.cache
+/home/summer/practice/dotnet/class/MyApp3/obj/Debug/net8.0/ref/MyApp3.dll

@@ -1,0 +1,14 @@
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.AssemblyInfo.cs
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/class/MyApp2/bin/Debug/net8.0/MyApp2
+/home/summer/practice/dotnet/class/MyApp2/bin/Debug/net8.0/MyApp2.deps.json
+/home/summer/practice/dotnet/class/MyApp2/bin/Debug/net8.0/MyApp2.runtimeconfig.json
+/home/summer/practice/dotnet/class/MyApp2/bin/Debug/net8.0/MyApp2.dll
+/home/summer/practice/dotnet/class/MyApp2/bin/Debug/net8.0/MyApp2.pdb
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.dll
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/refint/MyApp2.dll
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.pdb
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/MyApp2.genruntimeconfig.cache
+/home/summer/practice/dotnet/class/MyApp2/obj/Debug/net8.0/ref/MyApp2.dll

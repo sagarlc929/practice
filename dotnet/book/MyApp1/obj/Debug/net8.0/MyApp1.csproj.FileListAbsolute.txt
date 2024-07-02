@@ -1,0 +1,14 @@
+/home/summer/practice/dotnet/book/MyApp1/bin/Debug/net8.0/MyApp1
+/home/summer/practice/dotnet/book/MyApp1/bin/Debug/net8.0/MyApp1.deps.json
+/home/summer/practice/dotnet/book/MyApp1/bin/Debug/net8.0/MyApp1.runtimeconfig.json
+/home/summer/practice/dotnet/book/MyApp1/bin/Debug/net8.0/MyApp1.dll
+/home/summer/practice/dotnet/book/MyApp1/bin/Debug/net8.0/MyApp1.pdb
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.AssemblyInfo.cs
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.dll
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/refint/MyApp1.dll
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.pdb
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/MyApp1.genruntimeconfig.cache
+/home/summer/practice/dotnet/book/MyApp1/obj/Debug/net8.0/ref/MyApp1.dll
