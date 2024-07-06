@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FELS3GDHCnvASvyCXnTl6SbAUrsR5JC+jbRMbjfVrwqdgLIHgzXMdD/kW90UKjMxOBhB19CaC3m0Vkzo1o6eQ==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/loop/LoopDemo/LoopDemo.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

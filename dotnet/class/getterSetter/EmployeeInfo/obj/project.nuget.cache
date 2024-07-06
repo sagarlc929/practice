@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQYcakw8AKPxzXB4zEJdl8fUGm2QCLQf/mDcOtHJZiY2C45rTKLYD0jsO6YlAN84rAnurm0QMSYcIcVJwv6Vrw==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/EmployeeInfo.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

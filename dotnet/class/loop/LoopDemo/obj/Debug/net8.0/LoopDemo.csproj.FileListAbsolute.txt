@@ -1,0 +1,15 @@
+/home/summer/practice/dotnet/class/loop/LoopDemo/bin/Debug/net8.0/LoopDemo
+/home/summer/practice/dotnet/class/loop/LoopDemo/bin/Debug/net8.0/LoopDemo.deps.json
+/home/summer/practice/dotnet/class/loop/LoopDemo/bin/Debug/net8.0/LoopDemo.runtimeconfig.json
+/home/summer/practice/dotnet/class/loop/LoopDemo/bin/Debug/net8.0/LoopDemo.dll
+/home/summer/practice/dotnet/class/loop/LoopDemo/bin/Debug/net8.0/LoopDemo.pdb
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.AssemblyInfo.cs
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.sourcelink.json
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.dll
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/refint/LoopDemo.dll
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.pdb
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/LoopDemo.genruntimeconfig.cache
+/home/summer/practice/dotnet/class/loop/LoopDemo/obj/Debug/net8.0/ref/LoopDemo.dll

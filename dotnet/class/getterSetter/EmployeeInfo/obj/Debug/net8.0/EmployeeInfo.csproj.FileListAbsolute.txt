@@ -1,0 +1,15 @@
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/bin/Debug/net8.0/EmployeeInfo
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/bin/Debug/net8.0/EmployeeInfo.deps.json
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/bin/Debug/net8.0/EmployeeInfo.runtimeconfig.json
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/bin/Debug/net8.0/EmployeeInfo.dll
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/bin/Debug/net8.0/EmployeeInfo.pdb
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.AssemblyInfo.cs
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.sourcelink.json
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.dll
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/refint/EmployeeInfo.dll
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.pdb
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/EmployeeInfo.genruntimeconfig.cache
+/home/summer/practice/dotnet/class/getterSetter/EmployeeInfo/obj/Debug/net8.0/ref/EmployeeInfo.dll
