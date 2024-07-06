@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/summer/practice/dotnet/Loop/Loop.csproj",
+      "projectUniqueName": "/home/summer/practice/dotnet/class/Loop/Loop.csproj",
       "projectName": "Loop",
-      "projectPath": "/home/summer/practice/dotnet/Loop/Loop.csproj",
+      "projectPath": "/home/summer/practice/dotnet/class/Loop/Loop.csproj",
       "packagesPath": "/home/summer/.nuget/packages/",
-      "outputPath": "/home/summer/practice/dotnet/Loop/obj/",
+      "outputPath": "/home/summer/practice/dotnet/class/Loop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/summer/.nuget/NuGet/NuGet.Config"
