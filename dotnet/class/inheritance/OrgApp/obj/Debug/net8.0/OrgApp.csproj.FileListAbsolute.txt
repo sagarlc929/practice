@@ -1,0 +1,15 @@
+/home/summer/practice/dotnet/class/inheritance/OrgApp/bin/Debug/net8.0/OrgApp
+/home/summer/practice/dotnet/class/inheritance/OrgApp/bin/Debug/net8.0/OrgApp.deps.json
+/home/summer/practice/dotnet/class/inheritance/OrgApp/bin/Debug/net8.0/OrgApp.runtimeconfig.json
+/home/summer/practice/dotnet/class/inheritance/OrgApp/bin/Debug/net8.0/OrgApp.dll
+/home/summer/practice/dotnet/class/inheritance/OrgApp/bin/Debug/net8.0/OrgApp.pdb
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.AssemblyInfoInputs.cache
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.AssemblyInfo.cs
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.csproj.CoreCompileInputs.cache
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.sourcelink.json
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.dll
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/refint/OrgApp.dll
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.pdb
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/OrgApp.genruntimeconfig.cache
+/home/summer/practice/dotnet/class/inheritance/OrgApp/obj/Debug/net8.0/ref/OrgApp.dll

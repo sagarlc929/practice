@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwetQPAQLqJeFk3W5n9YUXwGRhCMtrAuRFSgK7YtvWbAcUCfwRHEbLvSDSBdcaL4rMqLbp2nT24nFQXthYb87Q==",
+  "success": true,
+  "projectFilePath": "/home/summer/practice/dotnet/class/inheritance/OrgApp/OrgApp.csproj",
+  "expectedPackageFiles": [
+    "/home/summer/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
