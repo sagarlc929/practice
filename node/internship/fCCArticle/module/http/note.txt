@@ -1,0 +1,5 @@
+'content-type': 'text/html'
+
+for JSON => 'application/json'
+for CSS => 'text/css'
+for JavaScript => 'text/javascript'
