@@ -3,7 +3,13 @@
 
 1) seperated code into different file
   file structure:
-  
+// Project root
+  /controllers
+    userController.js
+  /routes:
+    userRouters.js
+  /services
+    
 
 
 2024-10-09

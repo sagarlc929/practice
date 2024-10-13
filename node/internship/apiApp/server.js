@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
-
+const PORT = 5000;
 const userInfoPath = path.join(__dirname, 'usersInfo.json');
 
 function readUsersFile(){
@@ -16,6 +16,17 @@ const updatedUsersFileContent = JSON.stringify(users);
 }
 
 const server = http.createServer((req,res)=>{
+  console.log("request", req.url, req.method);
+  // Set CORS headers
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PATCH, DELETE, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  if(req.method === 'OPTIONS'){
+    res.writeHead(204);
+    res.end();
+    return;
+  }
+
   // create
   if(req.url === '/api/users' && req.method === 'POST'){
     let body = '';
@@ -25,8 +36,10 @@ const server = http.createServer((req,res)=>{
 
     req.on('end', ()=>{
       const reqData = JSON.parse(body);
+      console.log(reqData);
       const users = readUsersFile(); 
       if(reqData.name && reqData.email && reqData.username && reqData.password){
+        console.log("true");
         const newUser = {
           id : users.length > 0 ? users[users.length - 1].id + 1 : 1,
           name : reqData.name,
@@ -62,6 +75,8 @@ const server = http.createServer((req,res)=>{
     }
     else{
       res.writeHead(200, {'content-type': 'application/json'});
+
+      console.log(res.writeHead);
       res.end(JSON.stringify(users));
     }
     // delete
@@ -70,7 +85,7 @@ const server = http.createServer((req,res)=>{
     const users = readUsersFile();
     if(queryObject.id){
       if(users.find(users => users.id == queryObject.id)){
-        const updatedUsersObj = users.filter(user => user.id !==queryObject.id);
+        const updatedUsersObj = users.filter(user => user.id !=queryObject.id);
         writeUsersFile(updatedUsersObj);
         res.writeHead(201, {'content-type': 'application/json'});
         res.end(JSON.stringify({success: "true", message: "User deleted successfully.", id: queryObject.id}));
@@ -107,6 +122,6 @@ const server = http.createServer((req,res)=>{
     res.end(JSON.stringify({message: 'Resource not found.'}))
   }
 });
-server.listen(5000,()=>{
-  console.log("Server listening at port 5000.");
+server.listen(PORT,()=>{
+  console.log(`Server listening at port ${PORT}.`);
 });
