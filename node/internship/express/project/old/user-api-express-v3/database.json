@@ -1,0 +1,51 @@
+[
+  {
+    "id": 2,
+    "name": "summer",
+    "email": "summer@gmail.com",
+    "username": "summer",
+    "password": "summer"
+  },
+  {
+    "id": 3,
+    "name": "summer",
+    "email": "summer@gmail.com",
+    "username": "summer",
+    "password": "summer"
+  },
+  {
+    "id": 4,
+    "name": "summer",
+    "email": "summer@gmail.com",
+    "username": "summer",
+    "password": "summer"
+  },
+  {
+    "id": 5,
+    "name": "summer",
+    "email": "summer@gmail.com",
+    "username": "summer",
+    "password": "summer"
+  },
+  {
+    "id": 6,
+    "name": "summer",
+    "email": "summer@gmail.com",
+    "username": "summer",
+    "password": "summer"
+  },
+  {
+    "id": 7,
+    "name": "sita",
+    "email": "sita@gmail.com",
+    "username": "sita",
+    "password": "gita"
+  },
+  {
+    "id": 8,
+    "name": "sita",
+    "email": "sita@gmail.com",
+    "username": "sita",
+    "password": "gita"
+  }
+]
