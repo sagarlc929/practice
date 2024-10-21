@@ -1,0 +1,86 @@
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"info","message":"info"}
+{"level":"verbose","message":"verbose"}
+{"level":"debug","message":"debug"}
+{"level":"info","message":"app is running"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"info","message":"info"}
+{"level":"info","message":"app is running"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"info","message":"info"}
+{"level":"info","message":"app is running"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"info","message":"info"}
+{"level":"info","message":"app is running"}
+[error  ] - error
+[warn   ] - warn
+[info   ] - info
+[info   ] - app is running
+[error  ] - error
+[warn   ] - warn
+[info   ] - info
+[info   ] - app is running
+[ERROR  ] - error
+[WARN   ] - warn
+[INFO   ] - info
+[INFO   ] - app is running
+[ERROR  ] - error
+[WARN   ] - warn
+[INFO   ] - info
+[INFO   ] - app is running
+[ERROR  ] - error
+[WARN   ] - warn
+[INFO   ] - info
+[INFO   ] - app is running
+2024-10-21T13:46:12.797Z[ERROR  ] - error
+2024-10-21T13:46:12.799Z[WARN   ] - warn
+2024-10-21T13:46:12.799Z[INFO   ] - info
+2024-10-21T13:46:12.802Z[INFO   ] - app is running
+2024-10-21T13:46:24.224Z [ERROR  ] - error
+2024-10-21T13:46:24.225Z [WARN   ] - warn
+2024-10-21T13:46:24.225Z [INFO   ] - info
+2024-10-21T13:46:24.228Z [INFO   ] - app is running
+2024-10-21T13:50:41.034Z [ERROR  ] - error
+2024-10-21T13:50:41.035Z [WARN   ] - warn
+2024-10-21T13:50:41.035Z [INFO   ] - info
+2024-10-21T13:50:41.037Z [INFO   ] - app is running
+2024-10-21T13:50:59.304Z [ERROR  ] - error
+2024-10-21T13:50:59.305Z [WARN   ] - warn
+2024-10-21T13:50:59.305Z [INFO   ] - info
+2024-10-21T13:50:59.308Z [INFO   ] - app is running
+2024-10-21T13:51:41.119Z [ERROR  ] - error
+2024-10-21T13:51:41.120Z [WARN   ] - warn
+2024-10-21T13:51:41.120Z [INFO   ] - info
+2024-10-21T13:51:41.121Z [ERROR  ] - Infinity
+2024-10-21T13:51:41.123Z [INFO   ] - app is running
+2024-10-21T13:52:00.134Z [ERROR  ] - error
+2024-10-21T13:52:00.136Z [WARN   ] - warn
+2024-10-21T13:52:00.136Z [INFO   ] - info
+2024-10-21T13:52:00.137Z [ERROR  ] - Infinity
+2024-10-21T13:52:00.139Z [INFO   ] - app is running
+2024-10-21T13:52:10.255Z [ERROR  ] - error
+2024-10-21T13:52:10.256Z [WARN   ] - warn
+2024-10-21T13:52:10.256Z [INFO   ] - info
+2024-10-21T13:52:10.257Z [ERROR  ] - 0
+2024-10-21T13:52:10.259Z [INFO   ] - app is running
+2024-10-21T13:52:25.281Z [ERROR  ] - error
+2024-10-21T13:52:25.283Z [WARN   ] - warn
+2024-10-21T13:52:25.283Z [INFO   ] - info
+2024-10-21T13:52:25.284Z [ERROR  ] - Infinity
+2024-10-21T13:52:25.285Z [INFO   ] - app is running
+2024-10-21T13:53:20.447Z [ERROR  ] - error
+2024-10-21T13:53:20.448Z [WARN   ] - warn
+2024-10-21T13:53:20.448Z [INFO   ] - info
+2024-10-21T13:53:20.451Z [INFO   ] - app is running
+2024-10-21T14:25:21.436Z [ERROR  ] - error
+2024-10-21T14:25:21.438Z [WARN   ] - warn
+2024-10-21T14:25:21.438Z [INFO   ] - info
+2024-10-21T14:25:21.440Z [INFO   ] - app is running
+2024-10-21T14:26:15.398Z [ERROR  ] - error
+2024-10-21T14:26:15.400Z [WARN   ] - warn
+2024-10-21T14:26:15.400Z [INFO   ] - info
+2024-10-21T14:26:15.402Z [INFO   ] - app is running
